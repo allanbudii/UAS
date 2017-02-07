@@ -1,0 +1,128 @@
+body{
+    background-color: #bb0f00;
+    margin: 0;
+}
+
+#header{
+  background-color: #bb0f00;
+  height: 110px;
+}
+
+#logo{
+    float: left;
+    height: 110px;
+}
+
+#menu{
+    float: left;
+	padding-top: 27px;
+}
+
+#menu a{
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Aharoni';
+}
+
+#menu li{
+     list-style: none;
+     float: left;
+     margin-left: 20px;
+}
+
+#welcome{
+	color: #ffffff;
+	font-family: 'Aharoni'
+	font-size: 48px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+
+#slide img{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+#sponsor	{
+	background-color: #bb0f00;
+	color: #ffffff;
+}
+
+#bungkus-sponsor{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Aharoni';
+}
+
+#sponsor img{
+	vertical-align: middle;
+}
+
+#sponsor-02{
+	background-color: #bb0f00;
+	color: #ffffff;
+}
+
+#bungkus-sponsor-02{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Aharoni';
+}
+
+#sponsor-02 img{
+	vertical-align: middle;
+}
+
+#pembeda-02{
+  color: #ffffff;
+}
+
+#contact{
+  color: #ffffff;
+  font-size: 30px;
+}
+
+#bungkus-sponsor-03{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Aharoni';
+}
+
+#sponsor-03 img{
+	vertical-align: middle;
+}
+
+#bungkus-sponsor-04{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Aharoni';
+}
+
+#sponsor-04 img{
+	vertical-align: middle;
+}
+
+#baju{
+  color: #ffffff;
+  font-size: 40px;
+}
+
+#bajunya{
+  font-size: 20px;
+}
+
+#open{
+	color: #ffffff;
+	font-family: 'Aharoni'
+	font-size: 48px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 40px;
+}
